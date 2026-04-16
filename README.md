@@ -8,8 +8,6 @@
   AI-powered Indian stock market analysis app 🚀
 </p>
 
-# 📊 AI Trading Assistant
-
 A production-ready mobile app for AI-powered Indian stock market analysis (NSE/BSE). Chat interface with real-time Nifty/BankNifty insights, options strategies (Iron Condor, Straddle, Bull/Bear spreads), and news sentiment integration.
 
 ---
